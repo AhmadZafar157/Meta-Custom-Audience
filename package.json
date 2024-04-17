@@ -1,0 +1,14 @@
+{
+  "name": "custom_audience",
+  "version": "1.0.0",
+  "description": "This is a web-service to create custom audiences with Meta",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahmad Zafar",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
